@@ -4,3 +4,5 @@
  2) Realized LP V-SRR antenna
  3) Realized CP single port V-SRR antenna
  4) Used CRLH-TL to realize CP two port V-SRR
+
+The aim of the project was to implement these structures as described in the paper: https://ieeexplore.ieee.org/document/9144409
